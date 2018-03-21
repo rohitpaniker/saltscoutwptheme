@@ -14,17 +14,17 @@
 
 3. You can create one use this for testing purpose on your local device. This license is licensed to you and is non-transferable, further.
 
-4. You can make any number of copies locally on your local device of the single Product, as long as the End Product is not distributed to clients or made to go live on internet or on any production server.
+4. You can make any number of copies locally on your local device of the single Product, as long as the End Product is not distributed to client(s) or made to go live on internet or on any production server.
 
 ## Whoa there! Things you can't do with the item
 
-5. You can’t Sell this Product
+5. You can’t sell this Product or distribute further to any of your client(s)
 
 6. You can’t re-distribute this Item, derive from this source code as your own work or as stock, in a tool or template, or with source files. You can’t do this with an Item either on its own or bundled with other items, and even if you modify the Item. You can’t re-distribute or make available the Item as-is or with superficial modifications. These things are not allowed even if the re-distribution is for Free.
 
 7. You can't modify or manipulate this Item after cloning from this repo. You can't combine the Item with other works and make a derivative work from it.
 
-8. You can’t use the Item in any application allowing your client to customise a digital or physical product to their specific needs, such as an “on demand”, “made to order” or “build it yourself” application. You can use the Item in this way only if you purchase a separate license from owner of this repo @rohitpanier for each final product incorporating the Item that is created using the application.
+8. You can’t use the Item in any application to customise a digital or physical product to someone else's specific needs, such as an “on demand”, “made to order” or “build it yourself” application. You can use the Item in this way only if you purchase a separate license from owner of this repo @rohitpanier for each final product incorporating the Item that is created using the application.
 
 9. You can't modify the Item and therefore delete unwanted components before creating your single End Product, you can’t extract and use a single component of an Item on a stand-alone basis.
 
