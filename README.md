@@ -24,8 +24,6 @@
 
 7. You can't modify or manipulate this Item after cloning from this repo. You can't combine the Item with other works and make a derivative work from it.
 
-8. You can’t use the Item in any application to customise a digital or physical product to someone else's specific needs, such as an “on demand”, “made to order” or “build it yourself” application. You can use the Item in this way only if you purchase a separate license from owner of this repo @rohitpanier for each final product incorporating the Item that is created using the application.
+8. You can’t use the Item in any application to customise a digital or physical product to someone else's specific needs, such as an “on demand”, “made to order” or “build it yourself” application. You can use the Item in this way only if you purchase a separate license from owner of this repo https://www.github.com/rohitpanier for each final product incorporating the Item that is created using the application.
 
 9. You can't modify the Item and therefore delete unwanted components before creating your single End Product, you can’t extract and use a single component of an Item on a stand-alone basis.
-
-10. You must not permit an end user of this Product to extract the Item and use it separately from the End Product.
