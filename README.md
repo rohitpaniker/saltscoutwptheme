@@ -1,22 +1,22 @@
 # Togglehead Digital Private Limited Assessment - Wordpress Theme Development from mockup
 
-**This repo contains the a full-fledged working WordPress theme conveted from a PSD mock-up wich utilizes HTML / CSS, vanilla JS, jQuery and PHP all bundled in a WordPress Theme **
+** This repo contains the a full-fledged working WordPress theme conveted from a PSD mock-up wich utilizes HTML / CSS, vanilla JS, jQuery and PHP all bundled in a WordPress Theme **
 
-##By Cloning This Repo, You (Togglehead Digital Private Limited) Agrees To The Following License Stated Below:
+## By Cloning This Repo, You (Togglehead Digital Private Limited) Agrees To The Following License Stated Below:
 
-##The low-down! The nuts and bolts of this license
+## The low-down! The nuts and bolts of this license
 
 1. This License grants you, the interviewer at Togglehead Digital Private Limited, an ongoing, non-exclusive, worldwide license to make use of the digital work (Item) for test use and not for any kind of production use (on one's local machine). Read the rest of this license for the details that apply to your use of the Item, as well as the FAQs (which form part of this license).
 
 2. You are licensed to use the Item to create one single Test Product For Interview Purpose To Be Run On Your Local Device For Testing Purpose (a “single application” on local device a.k.a localhost / 127.0.0.1), and the End Product can not be distributed further or used for production purpose for yourself or for any of your client(s).
 
-##Go for it! Things you can do with the Item
+## Go for it! Things you can do with the Item
 
 3. You can create one use this for testing purpose on your local device. This license is licensed to you and is non-transferable, further.
 
 4. You can make any number of copies locally on your local device of the single Product, as long as the End Product is not distributed to clients or made to go live on internet or on any production server.
 
-##Whoa there! Things you can't do with the item
+## Whoa there! Things you can't do with the item
 
 5. You can’t Sell this Product
 
