@@ -12,7 +12,7 @@
 
 ## Go for it! Things you can do with the Item
 
-3. You can create one use this for testing purpose on your local device. This license is licensed to you and is non-transferable, further.
+3. You can use this for testing purpose on your local device. This license is licensed to you and is non-transferable, further.
 
 4. You can make any number of copies locally on your local device of the single Product, as long as the End Product is not distributed to client(s) or made to go live on internet or on any production server.
 
